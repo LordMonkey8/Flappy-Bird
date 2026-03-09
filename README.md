@@ -10,7 +10,7 @@ FlappyBird is compatible with the iPhone 6s and above on iOS 13 and later.
 Compatible with watchOS 6.0 and above.
 
 ## Installation
-The '.ipa' and '.dmg' for FlappyBird can be found on the [release page](https://github.com/crypticplank/flappybird/releases).
+The '.ipa' and '.dmg' for FlappyBird can be found on the [release page](https://github.com/LordMonkey8/Flappy-Bird/releases/tag/FlappyBird-1).
 
 ## License
 - [MIT](https://choosealicense.com/licenses/mit/)
