@@ -1,6 +1,6 @@
 # Flappy Bird
 
-This is an extremely close clone to the original Flappy Bird by Dong Nguyen.
+This is an extremely close clone by [brandonplank](https://github.com/crypticplank/flappybird) of the original Flappy Bird by Dong Nguyen.
 
 ## Demo
 <img src="demo/demo.gif" width="200">
