@@ -1,4 +1,4 @@
-# FlappyBird
+# Flappy Bird
 ## NOTICE
 > *AS OF 08/10/2024, this repository will replaced by [https://github.com/freehelpdesk/flappybird](https://github.com/freehelpdesk/flappybird), Please go there for the new cross-platform version of this clone. Thanks.*
 
