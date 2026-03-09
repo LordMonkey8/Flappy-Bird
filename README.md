@@ -6,7 +6,7 @@ This is an extremely close clone to the original Flappy Bird by Dong Nguyen.
 <img src="demo/demo.gif" width="200">
 
 ## Compatibility
-FlappyBird is compatible with the iPhone 6s and above on iOS 13 and later.
+Flappy Bird is compatible with the iPhone 6s and above on iOS 13 and later.
 
 ## Installation
 The '.ipa' and '.dmg' for FlappyBird can be found on the [release page](https://github.com/LordMonkey8/Flappy-Bird/releases/tag/FlappyBird-1).
